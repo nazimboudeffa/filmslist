@@ -1923,5 +1923,117 @@
         "star": "P. Timsit",
         "year": 1999,
         "country": "France"
+    },
+    {
+        "title": "La bataille d’Alger",
+        "director": "Gillo PONTECORVO",
+        "star": "N/A",
+        "year": 1966,
+        "country": "Algérie"
+    },
+    {
+        "title": "Chronique des années de braise",
+        "director": "Mohamed Lakhdar HAMINA",
+        "star": "N/A",
+        "year": 1975,
+        "country": "Algérie"
+    },
+    {
+        "title": "Le Vent des Aurès",
+        "director": "Mohamed Lakhdar HAMINA",
+        "star": "N/A",
+        "year": 1966,
+        "country": "Algérie"
+    },
+    {
+        "title": "Patrouille à l'Est",
+        "director": "Amar LASKRI",
+        "star": "N/A",
+        "year": 1971,
+        "country": "Algérie"
+    },
+    {
+        "title": "Hassen TERRO",
+        "director": "Mohamed Lakhdar HAMINA",
+        "star": "N/A",
+        "year": 1968,
+        "country": "Algérie"
+    },
+    {
+        "title": "L'Opium et le Bâton",
+        "director": "Mouloud MAMMERI",
+        "star": "N/A",
+        "year": 1971,
+        "country": "Algérie"
+    },
+    {
+        "title": "L'Epopée du Cheikh BOUAMAMA",
+        "director": "Bakhti BENAMAR",
+        "star": "N/A",
+        "year": 1985,
+        "country": "Algérie"
+    },
+    {
+        "title": "Les portes du Silence",
+        "director": "Amar LASKRI",
+        "star": "N/A",
+        "year": 1987,
+        "country": "Algérie"
+    },
+    {
+        "title": "Les Hors-la-loi",
+        "director": "Tewfik FARES",
+        "star": "N/A",
+        "year": 1969,
+        "country": "Algérie"
+    },
+    {
+        "title": "Les Enfants de Novembre",
+        "director": "Moussa HADDAD",
+        "star": "N/A",
+        "year": 1975,
+        "country": "Algérie"
+    },
+    {
+        "title": "L'Evasion de Hassen TERRO",
+        "director": "Mustapha BADIE",
+        "star": "N/A",
+        "year": 1970,
+        "country": "Algérie"
+    },
+    {
+        "title": "Hassen Taxi",
+        "director": "Mohamed Slim RIAD",
+        "star": "N/A",
+        "year": 1982,
+        "country": "Algérie"
+    },
+    {
+        "title": "Les Vacances de l’Inspecteur Tahar",
+        "director": "Moussa HADDAD",
+        "star": "N/A",
+        "year": 1973,
+        "country": "Algérie"
+    },
+    {
+        "title": "Omar GATLATOU",
+        "director": "Merzak ALLOUACHE",
+        "star": "N/A",
+        "year": 1977,
+        "country": "Algérie"
+    },
+    {
+        "title": "Le Clandestin",
+        "director": "Bakhti BENAMAR",
+        "star": "N/A",
+        "year": 1989,
+        "country": "Algérie"
+    },
+    {
+        "title": "AILA KI NASS",
+        "director": "Amar TRIBCHE",
+        "star": "N/A",
+        "year": 1990,
+        "country": "Algérie"
     }
 ]}
