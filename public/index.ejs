@@ -126,17 +126,19 @@
         <thead>
           <tr>
             <th>Title</th>
+            <th>Director</th>
+            <th>Star</th>
             <th>Year</th>
             <th>Country</th>
-            <th>Director</th>
           </tr>
         </thead>
         <tfoot>
           <tr>
             <th>title...</th>
+            <th>director...</th>
+            <th>star...</th>
             <th>year...</th>
             <th>country...</th>
-            <th>director...</th>
           </tr>
         </tfoot>
       </table>
@@ -159,11 +161,13 @@
         "columns": [{
           "data": "title"
         }, {
+          "data": "director"
+        }, {
+          "data": "star"
+        }, {
           "data": "year"
         }, {
           "data": "country"
-        }, {
-          "data": "director"
         }]
       });
       $('#filmslist tfoot th').each(function() {
